@@ -5,6 +5,7 @@ public class Main {
     static Scanner s = new Scanner(System.in);
     static Group group = new Group("com18");
 
+    
     public static void main(String[] h) {
         boolean c = true;
         while (c){
